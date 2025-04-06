@@ -1,5 +1,6 @@
 streamlit
 streamlit-option-menu
+pmdarima
 pandas
 yfinance
 plotly
