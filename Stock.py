@@ -1121,7 +1121,6 @@ else:
 # ## PREDICTION OF HISTORICAL DATA USING RANDOM FOREST
 
 # %%
-# pip install ta
 import yfinance as yf
 import pandas as pd
 import numpy as np
