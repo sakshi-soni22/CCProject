@@ -2,6 +2,7 @@ streamlit
 yfinance
 pmdarima
 seaborn
+sns
 matplotlib
 pandas
 numpy
