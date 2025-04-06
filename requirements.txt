@@ -9,3 +9,4 @@ numpy
 plotly
 ta
 sklearn
+flask
