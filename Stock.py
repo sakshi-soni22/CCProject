@@ -1329,5 +1329,13 @@ plt.title('ARIMA Model Forecast')
 plt.legend()
 plt.show()
 
+from flask import Flask
 
+app = Flask(__name__)
 
+@app.route('/')
+def index():
+    return "Analysis Complete! Your script ran successfully."
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
