@@ -2,6 +2,9 @@ streamlit
 streamlit-option-menu
 pmdarima
 pandas
+seaborn
+sklearn
 yfinance
 plotly
 matplotlib
+numpy
