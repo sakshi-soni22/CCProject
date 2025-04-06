@@ -1,10 +1,8 @@
 streamlit
-streamlit-option-menu
-pmdarima
-pandas
-seaborn
-sklearn
 yfinance
-plotly
+pmdarima
+seaborn
 matplotlib
+pandas
 numpy
+plotly
